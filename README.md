@@ -2,6 +2,12 @@
 
 Check Multisig transaction for Gnosis wallets (old codebase)
 
+## Installation
+
+1. Clone repo
+2. cd /yourRepo
+3. npm i
+
 ## Usage
 
 1. Open Transaction in etherscan
